@@ -1,5 +1,5 @@
 {% set name = "protobuf_to_pydantic" %}
-{% set version = "0.3.1.1" %}
+{% set version = "0.3.1.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/protobuf_to_pydantic-{{ version }}.tar.gz
-  sha256: 0bad904fac8d7104ac4f61279126b1d27ce9414c170d2bfad82fec7ce7b26c58
+  sha256: 9eefade4acd6801084ec85e311485809323f1526e68a9dbf3e6b9cca3e4fd203
 
 build:
   entry_points:
