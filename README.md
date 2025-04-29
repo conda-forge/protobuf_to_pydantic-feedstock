@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-protobuf_to_pydantic-green.svg)](https://anaconda.org/conda-forge/protobuf_to_pydantic) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/protobuf_to_pydantic.svg)](https://anaconda.org/conda-forge/protobuf_to_pydantic) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/protobuf_to_pydantic.svg)](https://anaconda.org/conda-forge/protobuf_to_pydantic) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/protobuf_to_pydantic.svg)](https://anaconda.org/conda-forge/protobuf_to_pydantic) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-protobuf__to__pydantic-green.svg)](https://anaconda.org/conda-forge/protobuf_to_pydantic) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/protobuf_to_pydantic.svg)](https://anaconda.org/conda-forge/protobuf_to_pydantic) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/protobuf_to_pydantic.svg)](https://anaconda.org/conda-forge/protobuf_to_pydantic) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/protobuf_to_pydantic.svg)](https://anaconda.org/conda-forge/protobuf_to_pydantic) |
 
 Installing protobuf_to_pydantic
 ===============================
